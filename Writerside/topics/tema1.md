@@ -20,3 +20,6 @@ Proceso de combinar los cambios de una rama con otra, incorporando las modificac
 Es una rama dentro de un repositorio Git que permite trabajar en múltiples versiones de un proyecto simultáneamente. Cada rama representa una línea de desarrollo independiente, lo que facilita la experimentación y la colaboración sin afectar la rama principal.
 
 * **Vim**: Editor de código en consola de comandos
+
+* <tooltip term="ls">**ls**</tooltip>
+Este comando muestra una lista detallada de los archivos y directorios en el directorio actual, incluyendo permisos, propietario, tamaño y fecha de modificación.
