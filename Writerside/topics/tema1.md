@@ -21,5 +21,5 @@ Es una rama dentro de un repositorio Git que permite trabajar en múltiples vers
 
 * **Vim**: Editor de código en consola de comandos
 
-* <tooltip term="ls">**Ls**</tooltip>
+* <tooltip term="ls">**Ls**</tooltip>:
 Este comando muestra una lista detallada de los archivos y directorios en el directorio actual, incluyendo permisos, propietario, tamaño y fecha de modificación.
